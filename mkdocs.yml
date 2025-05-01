@@ -1,0 +1,7 @@
+site_name: FletSyncfusionSlider
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
