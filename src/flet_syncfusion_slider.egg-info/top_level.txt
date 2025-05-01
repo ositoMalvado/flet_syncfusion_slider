@@ -1,0 +1,2 @@
+flet_syncfusion_slider
+flutter
