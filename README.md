@@ -34,4 +34,4 @@ flet build macos -v
 
 ## Documentation
 
-[Link to documentation](https://MyGithubAccount.github.io/flet-syncfusion-slider/)
+[Link to documentation](https://ositoMalvado.github.io/flet-syncfusion-slider/)
